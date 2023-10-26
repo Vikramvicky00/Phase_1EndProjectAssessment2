@@ -1,0 +1,8 @@
+1,Sai Ram,10th, A
+2,Jai Ram,10th,B
+11,Vamsi,9th,A
+12,Lokesh,9th,B
+16,Harish,12th,A B
+18,Suresh,12th,B
+15,Vikram,5th,A
+101,Kohli,8th,C
